@@ -13,7 +13,7 @@ print("ответ: периметр =" ,b)
 # задача3
 
 num1 = int(input("введите число:"))
-num2 = 2 * 3.14 * r 
+num2 = 2 * 3.14 * num1
 print("ответ: num2=" ,num2)
 
 # задача4
@@ -58,7 +58,7 @@ print("outer_area=" ,outer_area)
 print("inner_area=" ,inner_area)
 print("ring=" ,ring)
 
-задача9
+#задача9
 
 edge = int(input("введите длину ребра куба: "))
 sur = 6 * (edge**2)
